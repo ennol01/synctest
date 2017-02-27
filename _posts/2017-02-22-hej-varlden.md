@@ -10,5 +10,11 @@ permalink: >
 published: true
 ---
 Välkommen till WordPress. Det här är ditt första inlägg. Redigera eller radera det. Sedan kan du börja skriva! Und so weiter und so weiter...
-# jshgdajhgda
 ja sicher digger.
+
+NÖÖ NIX DA. WAS IST DENN MIT <em><strong>styling?</strong></em>
+<ul>
+ 	<li>dies</li>
+ 	<li>das</li>
+ 	<li>nochwas.</li>
+</ul>
