@@ -10,3 +10,5 @@ permalink: >
 published: true
 ---
 Välkommen till WordPress. Det här är ditt första inlägg. Redigera eller radera det. Sedan kan du börja skriva! Und so weiter und so weiter...
+# jshgdajhgda
+ja sicher digger.
