@@ -5,8 +5,7 @@ author: ennol
 post_date: 2017-02-22 15:56:49
 post_excerpt: ""
 layout: page
-permalink: >
-  http://stockholmcoder.com.w0139153.kasserver.com/exempelsida/
+permalink: http://stockholmcoder.com/exempelsida/
 published: true
 ---
 Detta är en exempelsida. Den skiljer sig från ett blogginlägg eftersom den är statisk och kommer att finnas på samma plats hela tiden, den kommer troligen att visas i din sidnavigering (i de flesta teman). De flesta börjar med en Om-sida som introducerar dem för potentiella besökare. Den skulle t.ex kunna ha följande innehåll: 
